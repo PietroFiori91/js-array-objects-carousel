@@ -1,0 +1,19 @@
+.carousel-container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.carousel-image {
+  width: 100%;
+  height: auto;
+  /* display: none; */
+}
+
+.carousel-image.active {
+  display: block;
+}
+
+.carousel-title,
+.carousel-description {
+  text-align: center;
+}
